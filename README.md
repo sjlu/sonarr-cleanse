@@ -24,7 +24,7 @@ for at least a week. This will take care of cases such as:
    the dependencies
 
   ```
-  git clone git@github.com:sjlu/sonarr-cleanse.git
+  git clone https://github.com/sjlu/sonarr-cleanse.git
   cd sonarr-cleanse
   npm install
   ```
